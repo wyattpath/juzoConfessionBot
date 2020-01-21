@@ -1,3 +1,5 @@
+import "reflect-metadata";
+import 'mocha';
 import {PingFinder} from "../../../src/services/PingFinder";
 import { expect } from "chai";
 
